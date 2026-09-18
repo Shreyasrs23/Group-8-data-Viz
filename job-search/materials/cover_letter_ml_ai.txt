@@ -1,0 +1,15 @@
+Revanth Nagaraj Mallol
+United States | 682-336-5311 | revanthmallol2001@gmail.com
+
+Dear Hiring Team,
+
+I am applying for the {{ROLE}} position at {{COMPANY}}. I am a Data Engineer and MS Data Science candidate (UTA, GPA 4.0) focused on production data systems that power analytics and AI workloads.
+
+I have built real-time platforms ingesting 500M+ events/day with Kafka/Flink/PySpark, enriched streaming signals with LLM workflows (LangChain/Ollama) in my StreamIQ project, and delivered sub-second enrichment at 10K msg/sec. My production work includes Delta Lake, dbt semantic models, Airflow orchestration, and FastAPI/Grafana observability. I also hold Microsoft Fabric Data Engineer (DP-700) and Azure AI Fundamentals certifications, with GCP Data Engineer Professional in progress.
+
+I am excited about applying my pipeline, quality, and ML-adjacent platform experience to {{COMPANY}}’s {{ROLE}} team.
+
+Thank you for your time.
+
+Sincerely,
+Revanth Nagaraj Mallol
