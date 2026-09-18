@@ -1,0 +1,121 @@
+[
+  {
+    "company": "samsara",
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702",
+    "status": "blocked_auth",
+    "notes": "Form asks work auth/sponsorship; profile incomplete"
+  },
+  {
+    "company": "samsara",
+    "title": "Senior AI Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855",
+    "status": "blocked_auth",
+    "notes": "Form asks work auth/sponsorship; profile incomplete"
+  },
+  {
+    "company": "samsara",
+    "title": "Senior Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565",
+    "status": "blocked_auth",
+    "notes": "Form asks work auth/sponsorship; profile incomplete"
+  },
+  {
+    "company": "samsara",
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702",
+    "status": "ready_dry_run",
+    "notes": "sponsor=Yes:True; auth=Yes:True; screenshot filled_samsara_7859702.png"
+  },
+  {
+    "company": "samsara",
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=Processing of Personal Data*; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "samsara",
+    "title": "Senior AI Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=I confirm that I reside in the United States.*; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "samsara",
+    "title": "Senior Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=How many years of experience do you have in a Data Engineer or Software Engineer role?*; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "samsara",
+    "title": "Senior Data Engineer II",
+    "url": "https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=How many years of experience do you have in building/maintaining a large-scale production-grade end-to-end data pipelines? *; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "instacart",
+    "title": "Senior Data Engineer II, Finance",
+    "url": "https://instacart.careers/job/?gh_jid=8132846",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=Are you currently, or have you previously, worked for Instacart?*; sponsor=Yes:True; auth=Yes:False"
+  },
+  {
+    "company": "coinbase",
+    "title": "Senior Market Data Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "coinbase",
+    "title": "Senior Software Engineer, Data Engineering Platform",
+    "url": "https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True"
+  },
+  {
+    "company": "anthropic",
+    "title": "Data Engineer",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4956672008",
+    "status": "applied",
+    "notes": "Confirmation detected; sponsor=Yes:False; auth=Yes:False"
+  },
+  {
+    "company": "brex",
+    "title": "Data Engineer",
+    "url": "https://www.brex.com/careers/8366850002?gh_jid=8366850002",
+    "status": "submitted_unconfirmed",
+    "notes": "No clear confirmation; err=What country are you based in?*; sponsor=Yes:False; auth=Yes:False"
+  },
+  {
+    "company": "anthropic",
+    "title": "Data Engineer, GTM",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5418610008",
+    "status": "applied",
+    "notes": "Confirmation detected; sponsor=Yes:False; auth=Yes:False"
+  },
+  {
+    "company": "anthropic",
+    "title": "Data Engineer, Safeguards",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008",
+    "status": "applied",
+    "notes": "Confirmation detected; sponsor=Yes:False; auth=Yes:False"
+  },
+  {
+    "company": "anthropic",
+    "title": "Recruiting Analytics Data Engineer ",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424111008",
+    "status": "applied",
+    "notes": "Confirmation detected; sponsor=Yes:False; auth=Yes:False"
+  },
+  {
+    "company": "samsara",
+    "title": "Data Engineer",
+    "url": "https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702",
+    "status": "ready_dry_run",
+    "notes": "check:Processing of Personal Data=True; check:AI Policy for Interviewers=True; sponsor=True; auth=True; check:Processing of Personal Data=True; check:AI Policy for Interviewers=True; screenshot filled_samsara_7859702.png"
+  }
+]

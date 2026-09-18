@@ -1,0 +1,7 @@
+Applying: samsara — Data Engineer
+ -> blocked_auth Form asks work auth/sponsorship; profile incomplete
+Applying: samsara — Senior AI Data Engineer
+ -> blocked_auth Form asks work auth/sponsorship; profile incomplete
+Applying: samsara — Senior Data Engineer
+ -> blocked_auth Form asks work auth/sponsorship; profile incomplete
+Wrote /workspace/job-search/logs/session_2026-09-18.json

@@ -1,0 +1,26 @@
+Applying: samsara — Data Engineer
+ -> submitted_unconfirmed No clear confirmation; err=Processing of Personal Data*; sponsor=Yes:True; auth=Yes:True
+Applying: samsara — Senior AI Data Engineer
+ -> submitted_unconfirmed No clear confirmation; err=I confirm that I reside in the United States.*; sponsor=Yes:True; auth=Yes:True
+Applying: samsara — Senior Data Engineer
+ -> submitted_unconfirmed No clear confirmation; err=How many years of experience do you have in a Data Engineer or Software Engineer role?*; sponsor=Yes:True; auth=Yes:True
+Applying: samsara — Senior Data Engineer II
+ -> submitted_unconfirmed No clear confirmation; err=How many years of experience do you have in building/maintaining a large-scale production-grade end-to-end data pipelines? *; sponsor=Yes:True; auth=Yes:True
+Applying: instacart — Senior Data Engineer II, Finance
+ -> submitted_unconfirmed No clear confirmation; err=Are you currently, or have you previously, worked for Instacart?*; sponsor=Yes:True; auth=Yes:False
+Applying: coinbase — Senior Market Data Engineer
+ -> submitted_unconfirmed No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True
+Applying: coinbase — Senior Software Engineer, Data Engineering Platform
+ -> submitted_unconfirmed No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True
+Applying: anthropic — Data Engineer
+ -> applied Confirmation detected; sponsor=Yes:False; auth=Yes:False
+Applying: brex — Data Engineer
+ -> submitted_unconfirmed No clear confirmation; err=What country are you based in?*; sponsor=Yes:False; auth=Yes:False
+Applying: anthropic — Data Engineer, GTM
+ -> applied Confirmation detected; sponsor=Yes:False; auth=Yes:False
+Applying: anthropic — Data Engineer, Safeguards
+ -> applied Confirmation detected; sponsor=Yes:False; auth=Yes:False
+Applying: anthropic — Recruiting Analytics Data Engineer 
+ -> applied Confirmation detected; sponsor=Yes:False; auth=Yes:False
+Wrote /workspace/job-search/logs/session_2026-09-18.json
+Counter({'submitted_unconfirmed': 8, 'applied': 4})

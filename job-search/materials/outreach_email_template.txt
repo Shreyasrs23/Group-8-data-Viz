@@ -1,0 +1,16 @@
+Subject: {{ROLE}} — Data Engineer (Python/Spark/Kafka/dbt) | Revanth Mallol
+
+Hi {{NAME}},
+
+I came across the {{ROLE}} opening at {{COMPANY}} and wanted to reach out directly. I’m a Data Engineer with 3+ years building production batch/streaming pipelines (Python, SQL, PySpark, Kafka, Airflow, dbt) on AWS/GCP/Azure, currently completing an MS in Data Science at UTA (GPA 4.0).
+
+Highlights:
+• Kafka/Flink pipelines at 500M+ events/day; model refresh SLA 24h → 4h
+• 200+ dbt models + Airflow + CI/CD; Snowflake healthcare analytics (40% faster queries)
+• AWS Glue/S3/Redshift migration cutting ~$32K/month infra cost
+
+Resume attached. Happy to chat for 15 minutes if helpful — open to anywhere in the US (remote or onsite).
+
+Best,
+Revanth Nagaraj Mallol
+682-336-5311 | revanthmallol2001@gmail.com
