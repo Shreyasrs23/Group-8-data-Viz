@@ -1,4 +1,0 @@
-Applying: samsara — Data Engineer
- -> ready_dry_run sponsor=Yes:True; auth=Yes:True; screenshot filled_samsara_7859702.png
-Wrote /workspace/job-search/logs/session_2026-09-18.json
-Counter({'ready_dry_run': 1})
