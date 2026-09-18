@@ -1,0 +1,4 @@
+Applying: samsara — Data Engineer
+ -> ready_dry_run check:Processing of Personal Data=True; check:AI Policy for Interviewers=True; sponsor=True; auth=True; check:Processing of Personal Data=True; check:AI Policy for Interviewers=True; screenshot filled_samsara_7859702.png
+Wrote /workspace/job-search/logs/session_2026-09-18.json
+Counter({'ready_dry_run': 1})

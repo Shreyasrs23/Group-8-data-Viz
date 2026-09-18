@@ -1,0 +1,737 @@
+[
+  {
+    "token": "7859702",
+    "title": "Data Engineer",
+    "status": "unconfirmed",
+    "errs": [
+      "Select a country"
+    ],
+    "log": [
+      {
+        "q": "sponsor",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "legally authorized",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "Processing of Personal Data",
+        "ok": true,
+        "chosen": "Acknowledge/Confirm",
+        "opts": [
+          "Acknowledge/Confirm"
+        ]
+      },
+      {
+        "q": "How did you hear",
+        "ok": true,
+        "chosen": "Samsara Careers Site",
+        "opts": [
+          "Samsara Careers Site",
+          "LinkedIn Jobs",
+          "LinkedIn Post",
+          "LinkedIn InMail / Message from a Recruiter or Hiring Manager",
+          "Direct Email / Call/ Text from a Recruiter or Hiring Manager",
+          "Indeed / Glassdoor",
+          "Reddit Ad",
+          "BuiltIn",
+          "RepVue",
+          "Women in Sales Club"
+        ]
+      },
+      {
+        "q": "AI Policy",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "previously worked at Samsara",
+        "ok": true,
+        "chosen": "No",
+        "opts": [
+          "Yes, as a full-time employee",
+          "Yes, as a contractor",
+          "No"
+        ]
+      },
+      {
+        "q": "years of experience",
+        "ok": true,
+        "chosen": "3+ years",
+        "opts": [
+          "0-1 years",
+          "1-2 years",
+          "3+ years"
+        ]
+      },
+      {
+        "q": "highest level of education",
+        "ok": true,
+        "chosen": "Master\u2019s",
+        "opts": [
+          "High School Diploma/GED",
+          "Associate",
+          "Bachelor\u2019s",
+          "Master\u2019s",
+          "PhD",
+          "JD"
+        ]
+      },
+      {
+        "q": "relocation assistance",
+        "ok": true,
+        "chosen": "No",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "accept the listed salary",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "gender identity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Agender",
+          "Cis-man",
+          "Cis-woman",
+          "Gender Fluid",
+          "Genderqueer",
+          "Man",
+          "Non-Binary",
+          "Transgender",
+          "Trans non-binary",
+          "Woman"
+        ]
+      },
+      {
+        "q": "race/ethnicity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Black / of African descent",
+          "East Asian (inclusive of Chinese, Japanese, Korean, Mongolian, Tibetan, and Taiwanese)",
+          "Latinx / Hispanic",
+          "Middle Eastern",
+          "Native American or Alaska Native",
+          "Pacific Islander or Native Hawaiian",
+          "South Asian (inclusive of Bangladeshi, Bhutanese, Indian, Nepali, Pakistani, and Sri Lankan)",
+          "Southeast Asian (inclusive of Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Thai, and Vietnamese)",
+          "Two or more races",
+          "White"
+        ]
+      },
+      {
+        "q": "veteran status",
+        "ok": true,
+        "chosen": "I am not a protected veteran",
+        "opts": [
+          "I am a protected veteran",
+          "I am not a protected veteran",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "disability|major life activity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Yes, I have a disability (or previously had a disability)",
+          "No, I don\u2019t have a disability",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "Where have you learned about Samsara",
+        "ok": true,
+        "chosen": "LinkedIn",
+        "opts": [
+          "LinkedIn",
+          "Samsara blog or website",
+          "News or press coverage",
+          "Podcast",
+          "Industry event or conference",
+          "Word of mouth (friend, family, or colleague)",
+          "A current Samsara employee",
+          "Glassdoor or Blind",
+          "X / Twitter",
+          "Instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "token": "7964565",
+    "title": "Senior Data Engineer",
+    "status": "unconfirmed",
+    "errs": [
+      "Select a country",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required."
+    ],
+    "log": [
+      {
+        "q": "sponsor",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "legally authorized",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "Processing of Personal Data",
+        "ok": true,
+        "chosen": "Acknowledge/Confirm",
+        "opts": [
+          "Acknowledge/Confirm"
+        ]
+      },
+      {
+        "q": "How did you hear",
+        "ok": true,
+        "chosen": "Samsara Careers Site",
+        "opts": [
+          "Samsara Careers Site",
+          "LinkedIn Jobs",
+          "LinkedIn Post",
+          "LinkedIn InMail / Message from a Recruiter or Hiring Manager",
+          "Direct Email / Call/ Text from a Recruiter or Hiring Manager",
+          "Indeed / Glassdoor",
+          "Reddit Ad",
+          "BuiltIn",
+          "RepVue",
+          "Women in Sales Club"
+        ]
+      },
+      {
+        "q": "AI Policy",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "previously worked at Samsara",
+        "ok": true,
+        "chosen": "No",
+        "opts": [
+          "Yes, as a full-time employee",
+          "Yes, as a contractor",
+          "No"
+        ]
+      },
+      {
+        "q": "years of experience",
+        "ok": false,
+        "chosen": null,
+        "opts": [
+          "0-4 years",
+          "5+ years"
+        ]
+      },
+      {
+        "q": "highest level of education",
+        "ok": true,
+        "chosen": "Master\u2019s",
+        "opts": [
+          "High School Diploma/GED",
+          "Associate",
+          "Bachelor\u2019s",
+          "Master\u2019s",
+          "PhD",
+          "JD"
+        ]
+      },
+      {
+        "q": "relocation assistance",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "accept the listed salary",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "gender identity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Agender",
+          "Cis-man",
+          "Cis-woman",
+          "Gender Fluid",
+          "Genderqueer",
+          "Man",
+          "Non-Binary",
+          "Transgender",
+          "Trans non-binary",
+          "Woman"
+        ]
+      },
+      {
+        "q": "race/ethnicity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Black / of African descent",
+          "East Asian (inclusive of Chinese, Japanese, Korean, Mongolian, Tibetan, and Taiwanese)",
+          "Latinx / Hispanic",
+          "Middle Eastern",
+          "Native American or Alaska Native",
+          "Pacific Islander or Native Hawaiian",
+          "South Asian (inclusive of Bangladeshi, Bhutanese, Indian, Nepali, Pakistani, and Sri Lankan)",
+          "Southeast Asian (inclusive of Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Thai, and Vietnamese)",
+          "Two or more races",
+          "White"
+        ]
+      },
+      {
+        "q": "veteran status",
+        "ok": true,
+        "chosen": "I am not a protected veteran",
+        "opts": [
+          "I am a protected veteran",
+          "I am not a protected veteran",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "disability|major life activity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Yes, I have a disability (or previously had a disability)",
+          "No, I don\u2019t have a disability",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "Where have you learned about Samsara",
+        "ok": true,
+        "chosen": "LinkedIn",
+        "opts": [
+          "LinkedIn",
+          "Samsara blog or website",
+          "News or press coverage",
+          "Podcast",
+          "Industry event or conference",
+          "Word of mouth (friend, family, or colleague)",
+          "A current Samsara employee",
+          "Glassdoor or Blind",
+          "X / Twitter",
+          "Instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "token": "8091855",
+    "title": "Senior AI Data Engineer",
+    "status": "unconfirmed",
+    "errs": [
+      "Select a country",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required."
+    ],
+    "log": [
+      {
+        "q": "sponsor",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "legally authorized",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "Processing of Personal Data",
+        "ok": true,
+        "chosen": "Acknowledge/Confirm",
+        "opts": [
+          "Acknowledge/Confirm"
+        ]
+      },
+      {
+        "q": "How did you hear",
+        "ok": true,
+        "chosen": "Samsara Careers Site",
+        "opts": [
+          "Samsara Careers Site",
+          "LinkedIn Jobs",
+          "LinkedIn Post",
+          "LinkedIn InMail / Message from a Recruiter or Hiring Manager",
+          "Direct Email / Call/ Text from a Recruiter or Hiring Manager",
+          "Indeed / Glassdoor",
+          "Reddit Ad",
+          "BuiltIn",
+          "RepVue",
+          "Women in Sales Club"
+        ]
+      },
+      {
+        "q": "AI Policy",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "previously worked at Samsara",
+        "ok": true,
+        "chosen": "No",
+        "opts": [
+          "Yes, as a full-time employee",
+          "Yes, as a contractor",
+          "No"
+        ]
+      },
+      {
+        "q": "years of experience",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "highest level of education",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "relocation assistance",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "accept the listed salary",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "gender identity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Agender",
+          "Cis-man",
+          "Cis-woman",
+          "Gender Fluid",
+          "Genderqueer",
+          "Man",
+          "Non-Binary",
+          "Transgender",
+          "Trans non-binary",
+          "Woman"
+        ]
+      },
+      {
+        "q": "race/ethnicity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Black / of African descent",
+          "East Asian (inclusive of Chinese, Japanese, Korean, Mongolian, Tibetan, and Taiwanese)",
+          "Latinx / Hispanic",
+          "Middle Eastern",
+          "Native American or Alaska Native",
+          "Pacific Islander or Native Hawaiian",
+          "South Asian (inclusive of Bangladeshi, Bhutanese, Indian, Nepali, Pakistani, and Sri Lankan)",
+          "Southeast Asian (inclusive of Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Thai, and Vietnamese)",
+          "Two or more races",
+          "White"
+        ]
+      },
+      {
+        "q": "veteran status",
+        "ok": true,
+        "chosen": "I am not a protected veteran",
+        "opts": [
+          "I am a protected veteran",
+          "I am not a protected veteran",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "disability|major life activity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Yes, I have a disability (or previously had a disability)",
+          "No, I don\u2019t have a disability",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "Where have you learned about Samsara",
+        "ok": true,
+        "chosen": "LinkedIn",
+        "opts": [
+          "LinkedIn",
+          "Samsara blog or website",
+          "News or press coverage",
+          "Podcast",
+          "Industry event or conference",
+          "Word of mouth (friend, family, or colleague)",
+          "A current Samsara employee",
+          "Glassdoor or Blind",
+          "X / Twitter",
+          "Instagram"
+        ]
+      }
+    ]
+  },
+  {
+    "token": "8039914",
+    "title": "Senior Data Engineer II",
+    "status": "unconfirmed",
+    "errs": [
+      "First Name is required.",
+      "Last Name is required.",
+      "Select a country",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required.",
+      "This field is required."
+    ],
+    "log": [
+      {
+        "q": "sponsor",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "legally authorized",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "Processing of Personal Data",
+        "ok": true,
+        "chosen": "Acknowledge/Confirm",
+        "opts": [
+          "Acknowledge/Confirm"
+        ]
+      },
+      {
+        "q": "How did you hear",
+        "ok": true,
+        "chosen": "Samsara Careers Site",
+        "opts": [
+          "Samsara Careers Site",
+          "LinkedIn Jobs",
+          "LinkedIn Post",
+          "LinkedIn InMail / Message from a Recruiter or Hiring Manager",
+          "Direct Email / Call/ Text from a Recruiter or Hiring Manager",
+          "Indeed / Glassdoor",
+          "Reddit Ad",
+          "BuiltIn",
+          "RepVue",
+          "Women in Sales Club"
+        ]
+      },
+      {
+        "q": "AI Policy",
+        "ok": true,
+        "chosen": "Yes",
+        "opts": [
+          "Yes",
+          "No"
+        ]
+      },
+      {
+        "q": "previously worked at Samsara",
+        "ok": true,
+        "chosen": "No",
+        "opts": [
+          "Yes, as a full-time employee",
+          "Yes, as a contractor",
+          "No"
+        ]
+      },
+      {
+        "q": "years of experience",
+        "ok": false,
+        "chosen": null,
+        "opts": [
+          "0-5 years",
+          "5-9 years",
+          "10+ years"
+        ]
+      },
+      {
+        "q": "highest level of education",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "relocation assistance",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "accept the listed salary",
+        "ok": false,
+        "chosen": null,
+        "opts": []
+      },
+      {
+        "q": "gender identity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Agender",
+          "Cis-man",
+          "Cis-woman",
+          "Gender Fluid",
+          "Genderqueer",
+          "Man",
+          "Non-Binary",
+          "Transgender",
+          "Trans non-binary",
+          "Woman"
+        ]
+      },
+      {
+        "q": "race/ethnicity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Black / of African descent",
+          "East Asian (inclusive of Chinese, Japanese, Korean, Mongolian, Tibetan, and Taiwanese)",
+          "Latinx / Hispanic",
+          "Middle Eastern",
+          "Native American or Alaska Native",
+          "Pacific Islander or Native Hawaiian",
+          "South Asian (inclusive of Bangladeshi, Bhutanese, Indian, Nepali, Pakistani, and Sri Lankan)",
+          "Southeast Asian (inclusive of Burmese, Cambodian, Filipino, Hmong, Indonesian, Laotian, Malaysian, Mien, Singaporean, Thai, and Vietnamese)",
+          "Two or more races",
+          "White"
+        ]
+      },
+      {
+        "q": "veteran status",
+        "ok": true,
+        "chosen": "I am not a protected veteran",
+        "opts": [
+          "I am a protected veteran",
+          "I am not a protected veteran",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "disability|major life activity",
+        "ok": true,
+        "chosen": "I don't wish to answer",
+        "opts": [
+          "Yes, I have a disability (or previously had a disability)",
+          "No, I don\u2019t have a disability",
+          "I prefer to self describe",
+          "I don't wish to answer"
+        ]
+      },
+      {
+        "q": "Where have you learned about Samsara",
+        "ok": true,
+        "chosen": "LinkedIn",
+        "opts": [
+          "LinkedIn",
+          "Samsara blog or website",
+          "News or press coverage",
+          "Podcast",
+          "Industry event or conference",
+          "Word of mouth (friend, family, or colleague)",
+          "A current Samsara employee",
+          "Glassdoor or Blind",
+          "X / Twitter",
+          "Instagram"
+        ]
+      }
+    ]
+  }
+]

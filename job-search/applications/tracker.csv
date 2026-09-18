@@ -1,16 +1,16 @@
 date,company,title,role_bucket,location,url,source,status,notes
-2026-09-18,samsara,Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702,greenhouse,blocked_auth,Form asks work auth/sponsorship; profile incomplete
-2026-09-18,samsara,Senior AI Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855,greenhouse,blocked_auth,Form asks work auth/sponsorship; profile incomplete
-2026-09-18,samsara,Senior Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565,greenhouse,blocked_auth,Form asks work auth/sponsorship; profile incomplete
-2026-09-18,samsara,Senior Data Engineer II,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914,greenhouse,queued,
-2026-09-18,instacart,"Senior Data Engineer II, Finance",Data Engineer,United States - Remote,https://instacart.careers/job/?gh_jid=8132846,greenhouse,queued,
-2026-09-18,coinbase,Senior Market Data Engineer,Data Engineer,Remote - USA,https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833,greenhouse,queued,
-2026-09-18,coinbase,"Senior Software Engineer, Data Engineering Platform",Data Engineer,Remote - USA,https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199,greenhouse,queued,
-2026-09-18,anthropic,Data Engineer,Data Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4956672008,greenhouse,queued,
-2026-09-18,brex,Data Engineer,Data Engineer,"San Francisco, California, United States",https://www.brex.com/careers/8366850002?gh_jid=8366850002,greenhouse,queued,
-2026-09-18,anthropic,"Data Engineer, GTM",Data Engineer,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/5418610008,greenhouse,queued,
-2026-09-18,anthropic,"Data Engineer, Safeguards",Data Engineer,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/5240422008,greenhouse,queued,
-2026-09-18,anthropic,Recruiting Analytics Data Engineer ,Data Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/5424111008,greenhouse,queued,
+2026-09-18,samsara,Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702,greenhouse,applied,OTP confirmed via Gmail 2026-09-18
+2026-09-18,samsara,Senior AI Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855,greenhouse,applied,OTP confirmed via Gmail 2026-09-18
+2026-09-18,samsara,Senior Data Engineer,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565,greenhouse,applied,OTP confirmed via Gmail 2026-09-18
+2026-09-18,samsara,Senior Data Engineer II,Data Engineer,Remote - US,https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914,greenhouse,applied,OTP confirmed via Gmail 2026-09-18
+2026-09-18,instacart,"Senior Data Engineer II, Finance",Data Engineer,United States - Remote,https://instacart.careers/job/?gh_jid=8132846,greenhouse,submitted_unconfirmed,"No clear confirmation; err=Are you currently, or have you previously, worked for Instacart?*; sponsor=Yes:True; auth=Yes:False"
+2026-09-18,coinbase,Senior Market Data Engineer,Data Engineer,Remote - USA,https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833,greenhouse,submitted_unconfirmed,No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True
+2026-09-18,coinbase,"Senior Software Engineer, Data Engineering Platform",Data Engineer,Remote - USA,https://www.coinbase.com/careers/positions/8082199?gh_jid=8082199,greenhouse,submitted_unconfirmed,No clear confirmation; err=Company name*; sponsor=Yes:True; auth=Yes:True
+2026-09-18,anthropic,Data Engineer,Data Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4956672008,greenhouse,applied,confirmation page
+2026-09-18,brex,Data Engineer,Data Engineer,"San Francisco, California, United States",https://www.brex.com/careers/8366850002?gh_jid=8366850002,greenhouse,submitted_unconfirmed,No clear confirmation; err=What country are you based in?*; sponsor=Yes:False; auth=Yes:False
+2026-09-18,anthropic,"Data Engineer, GTM",Data Engineer,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/5418610008,greenhouse,applied,confirmation page
+2026-09-18,anthropic,"Data Engineer, Safeguards",Data Engineer,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/5240422008,greenhouse,applied,confirmation page
+2026-09-18,anthropic,Recruiting Analytics Data Engineer ,Data Engineer,"San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/5424111008,greenhouse,applied,confirmation page
 2026-09-18,gusto,Senior Data Engineer,Data Engineer,"Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid",https://job-boards.greenhouse.io/gusto/jobs/8099751,greenhouse,queued,
 2026-09-18,datadog,Senior Data Engineer - Revenue Data Platform,Data Engineer,"Boston, Massachusetts, USA; New York, New York, USA",https://careers.datadoghq.com/detail/8141967/?gh_jid=8141967,greenhouse,queued,
 2026-09-18,scaleai,"Senior Data Engineer, Public Sector",Data Engineer,"Washington, DC",https://job-boards.greenhouse.io/scaleai/jobs/4713597005,greenhouse,queued,
@@ -59,3 +59,5 @@ date,company,title,role_bucket,location,url,source,status,notes
 2026-09-18,scaleai,"Machine Learning Engineer, Public Sector",ML Engineer,"Denver, CO; Honolulu, HI; Washington, DC",https://job-boards.greenhouse.io/scaleai/jobs/4631848005,greenhouse,queued,
 2026-09-18,airbnb,"Machine Learning Engineer, Relevance and Personalization",ML Engineer,United States,https://careers.airbnb.com/positions/7708224?gh_jid=7708224,greenhouse,queued,
 2026-09-18,scaleai,Machine Learning Fellow - Human Frontier Collective (US),ML Engineer,United States,https://job-boards.greenhouse.io/scaleai/jobs/4660340005,greenhouse,queued,
+2026-09-18,ACLU,Analytics Engineer,Data Engineer,US,,greenhouse,applied,email: Thank You - ACLU Application Received
+2026-09-18,BETA Technologies,Data Platform Engineer | Data & Platform,Data Engineer,US,,greenhouse,applied,email: Thank you for your application to BETA Technologies

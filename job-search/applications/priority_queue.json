@@ -168,18 +168,6 @@
     "priority": 1
   },
   {
-    "company": "scaleai",
-    "title": "Senior Data Engineer, Public Sector",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4713597005",
-    "id": 4713597005,
-    "updated_at": "2026-09-03T12:57:03-04:00",
-    "source": "greenhouse",
-    "role_bucket": "Data Engineer",
-    "status": "queued",
-    "priority": 1
-  },
-  {
     "company": "chime",
     "title": "Senior Software Engineer, Data Engineering",
     "location": "San Francisco, CA, USA",
@@ -282,18 +270,6 @@
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002",
     "id": 8546367002,
     "updated_at": "2026-09-02T11:52:42-04:00",
-    "source": "greenhouse",
-    "role_bucket": "AI Engineer",
-    "status": "queued",
-    "priority": 3
-  },
-  {
-    "company": "databricks",
-    "title": "AI Engineer \u2013 Forward Deployed Engineering, U.S. Public Sector (Federal Focus)",
-    "location": "Maryland; Virginia; Washington, D.C.",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002",
-    "id": 8760167002,
-    "updated_at": "2026-09-18T06:00:21-04:00",
     "source": "greenhouse",
     "role_bucket": "AI Engineer",
     "status": "queued",
@@ -678,18 +654,6 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
     "id": 6121543,
     "updated_at": "2026-09-16T14:51:43-04:00",
-    "source": "greenhouse",
-    "role_bucket": "ML Engineer",
-    "status": "queued",
-    "priority": 4
-  },
-  {
-    "company": "scaleai",
-    "title": "Machine Learning Engineer, Public Sector",
-    "location": "Denver, CO; Honolulu, HI; Washington, DC",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4631848005",
-    "id": 4631848005,
-    "updated_at": "2026-09-10T19:40:50-04:00",
     "source": "greenhouse",
     "role_bucket": "ML Engineer",
     "status": "queued",
