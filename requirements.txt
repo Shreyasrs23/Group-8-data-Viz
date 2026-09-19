@@ -1,0 +1,12 @@
+# Python data-science stack for exploring and visualizing the EEG dataset
+# (Dataset/EEG.machinelearing_data_BRMH.csv). Pinned for reproducible installs.
+# The Cloud Agent environment installs this same set via its install script.
+numpy==2.4.4
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+openpyxl==3.1.5
+jupyterlab==4.6.3
